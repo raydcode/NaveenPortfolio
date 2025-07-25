@@ -10,7 +10,7 @@ const About = () => {
     {
       icon: <TrendingUp className="w-8 h-8 text-cyan-400" />,
       title: "Brand Growth",
-      description: "Increased The Bharat Army followers from 1.1M to 1.2M during Cricket World Cup 2023",
+      description: "Increased The Bharat Army followers from 1.1M to 1.2M during Cricket World Cup 2023 and Punjab FC by 37% during ISL 2024–25",
       level: "Expert",
       points: 95
     },
@@ -81,18 +81,13 @@ const About = () => {
           <div className="bg-slate-900/30 backdrop-blur-xl rounded-2xl p-4 sm:p-8 border border-cyan-400/20 hover:border-cyan-400/40 hover:shadow-lg hover:shadow-cyan-500/20 transition-all duration-300">
             <h3 className="text-xl sm:text-2xl font-bold text-white mb-4 sm:mb-6">My Journey</h3>
             <p className="text-white/70 mb-4 sm:mb-6 leading-relaxed text-sm sm:text-base">
-              I'm a seasoned Social Media Manager with experience in enhancing brand visibility and engaging 
-              audiences across various platforms. I specialize in developing and executing comprehensive social 
-              media strategies for high-profile sports franchises and major events.
+            I’m a Social Media Manager who’s all about building engaging digital experiences and driving real connections online. Over the years, I’ve worked across different brands and industries, crafting content that not only looks good but performs well too.
             </p>
             <p className="text-white/70 mb-4 sm:mb-6 leading-relaxed text-sm sm:text-base">
-              My expertise lies in crafting strategic content plans, maintaining detailed content calendars, 
-              and delivering real-time updates. I'm recognized for innovative content creation and effective 
-              fan engagement, with a strong ability to amplify brand presence.
+            My focus has always been on building strong content strategies, staying consistent with planning, and showing up in real-time when it matters most. Whether it’s a campaign launch or a moment that needs to be captured instantly, I enjoy being in the middle of it: Planning, executing, and adapting on the go.
             </p>
             <p className="text-white/70 leading-relaxed text-sm sm:text-base">
-              From managing The Bharat Army's 2+ million followers to creating viral content during major 
-              cricket tournaments, I bring creativity, strategy, and results to every project.
+            From running content calendars to creating ideas that spark conversation, I bring a mix of creativity, structure, and a deep understanding of what clicks with an audience.
             </p>
           </div>
           
