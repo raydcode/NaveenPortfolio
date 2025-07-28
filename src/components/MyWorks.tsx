@@ -5,14 +5,14 @@ import 'swiper/css/autoplay';
 import { Autoplay } from 'swiper/modules';
 
 const categories = [
-  {
-    key: 'sportwalk',
-    label: 'Sportwalk - 1st Job',
-    images: [
-      '/Portfolio Pics/Sportwalk - 1st Job/IMG-20240531-WA0065.jpg',
-      '/Portfolio Pics/Sportwalk - 1st Job/Sportwalk.jpg',
-    ],
-  },
+  // {
+  //   key: 'sportwalk',
+  //   label: 'Sportwalk - 1st Job',
+  //   images: [
+  //     '/Portfolio Pics/Sportwalk - 1st Job/IMG-20240531-WA0065.jpg',
+  //     '/Portfolio Pics/Sportwalk - 1st Job/Sportwalk.jpg',
+  //   ],
+  // },
   {
     key: 'fantasy-apps',
     label: 'Fantasy Apps',
