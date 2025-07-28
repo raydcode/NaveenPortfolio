@@ -205,7 +205,7 @@ const Skills = () => {
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-bold text-white mb-4">Industry Focus</h3>
           <div className="flex flex-wrap justify-center gap-4">
-            {['Sports Marketing', 'Brand Management', 'Fantasy Sports', 'Cricket', 'Football', 'Pickleball'].map((industry, index) => (
+            {['Brand Marketing', 'Brand Management', 'Digital Campaigns', 'Creative Strategy', 'Audience Growth', 'Content Producer'].map((industry, index) => (
               <span
                 key={index}
                 className="px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 text-white rounded-full font-medium hover:shadow-2xl hover:shadow-cyan-500/50 transition-all duration-300 hover:scale-105 backdrop-blur-sm border border-cyan-400/30"

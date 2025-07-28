@@ -18,14 +18,14 @@ const Campaigns = () => {
       xp: 500
     },
     {
-      title: "IPL 2024 Awards Campaign",
-      description: "Orchestrated comprehensive awards campaign with fan voting, quizzes, and interactive content.",
-      impact: "100,000 participants, extensive team and player interactions",
+      title: "Punjab FC",
+      description: "Complete social media ownership across tournaments, sponsor deliverables, and fan campaigns.",
+      impact: "Consistent brand voice and 37% follower growth across the season.",
       icon: <Award className="w-8 h-8" />,
       color: "from-cyan-500 to-blue-600",
-      tags: ["IPL", "Fan Engagement", "Awards"],
-      rarity: "Epic",
-      xp: 400
+      tags: ["Indian Football", "Team Management", "Content Strategy"],
+      rarity: "Legendary",
+      xp: 500
     },
     {
       title: "The Bharat Army Ultimate Predictor",
@@ -48,12 +48,12 @@ const Campaigns = () => {
       xp: 350
     },
     {
-      title: "National Sports Day Quiz",
-      description: "Educational and engaging quiz campaign celebrating Indian sports achievements.",
-      impact: "High engagement rates and brand awareness",
+      title: "The Big Sher Challenge",
+      description: "Punjab FC fan quiz to test club knowledge and win exclusive merch.",
+      impact: "Fan engagement and a memorable experience.",
       icon: <Zap className="w-8 h-8" />,
       color: "from-indigo-500 to-purple-600",
-      tags: ["Education", "Sports", "Quiz"],
+      tags: ["Community", "Fan Engagement", "Giveaway"],
       rarity: "Common",
       xp: 200
     },

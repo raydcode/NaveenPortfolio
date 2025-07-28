@@ -10,14 +10,14 @@ const About = () => {
     {
       icon: <TrendingUp className="w-8 h-8 text-cyan-400" />,
       title: "Brand Growth",
-      description: "Increased The Bharat Army followers from 1.1M to 1.2M during Cricket World Cup 2023 and Punjab FC by 37% during ISL 2024–25",
+      description: "Grew brands through bold storytelling and fan-first strategies, turning followers into loyal communities",
       level: "Expert",
       points: 95
     },
     {
       icon: <Users className="w-8 h-8 text-blue-400" />,
       title: "Engagement Expert",
-      description: "IPL 2024 Awards campaign attracted 100,000 participants with viral content strategies",
+      description: "Increased The Bharat Army followers from 1.1M to 1.2M during Cricket World Cup 2023 and Punjab FC by 37% during ISL 2024–25",
       level: "Master",
       points: 98
     },
@@ -38,7 +38,7 @@ const About = () => {
   ];
 
   const achievements = [
-    { icon: <Trophy className="w-6 h-6" />, title: "Sports Marketing Pro", color: "text-orange-400", bg: "from-orange-500/20 to-red-500/20", border: "border-orange-400/30" },
+    { icon: <Trophy className="w-6 h-6" />, title: "Digital Marketing Pro", color: "text-orange-400", bg: "from-orange-500/20 to-red-500/20", border: "border-orange-400/30" },
     { icon: <Star className="w-6 h-6" />, title: "Viral Content Creator", color: "text-cyan-400", bg: "from-cyan-500/20 to-blue-500/20", border: "border-cyan-400/30" },
     { icon: <Medal className="w-6 h-6" />, title: "Campaign Master", color: "text-blue-400", bg: "from-blue-500/20 to-indigo-500/20", border: "border-blue-400/30" },
     { icon: <Award className="w-6 h-6" />, title: "Brand Growth Expert", color: "text-teal-400", bg: "from-teal-500/20 to-green-500/20", border: "border-teal-400/30" }

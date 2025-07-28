@@ -1,5 +1,6 @@
+
 import React from 'react';
-import { Heart, Linkedin, Twitter, Instagram, Trophy } from 'lucide-react';
+import { Heart, Linkedin, Twitter, Instagram } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -55,8 +56,8 @@ const Footer = () => {
           <div>
             <h3 className="font-semibold text-lg mb-4">Connect</h3>
             <div className="space-y-2 mb-6">
-              <p className="text-white/60">naveen.balaji@example.com</p>
-              <p className="text-white/60">+91 XXXXX XXXXX</p>
+              <p className="text-white/60">naveenbalaji786@gmail.com</p>
+              <p className="text-white/60">+91 87786 46349</p>
             </div>
             <div className="flex space-x-4">
               <a
@@ -66,16 +67,16 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5 text-cyan-400" />
               </a>
               <a
-                href="#"
+                href="https://in.linkedin.com/in/naveenbalaji8"
                 className="p-2 bg-slate-800/50 backdrop-blur-sm rounded-lg border border-blue-400/30 hover:bg-blue-500/20 hover:shadow-lg hover:shadow-blue-500/30 transition-all duration-300 hover:scale-110"
               >
                 <Twitter className="w-5 h-5 text-blue-400" />
               </a>
               <a
-                href="#"
+              href="https://x.com/monknaveen"
                 className="p-2 bg-slate-800/50 backdrop-blur-sm rounded-lg border border-orange-400/30 hover:bg-orange-500/20 hover:shadow-lg hover:shadow-orange-500/30 transition-all duration-300 hover:scale-110"
               >
-                <Instagram className="w-5 h-5 text-orange-400" />
+                <Instagram className="w-5 h-5 text-orange-400" /><a href="https://www.instagram.com/naveen_monk/"></a>
               </a>
             </div>
           </div>

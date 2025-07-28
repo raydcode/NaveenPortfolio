@@ -5,9 +5,9 @@ const Experience = () => {
   const experiences = [
     {
       company: "Meraki Sport & Entertainment",
-      role: "Social Media Manager",
+      role: "Associate - Digital & Social Media",
       period: "October 2024 - Present",
-      location: "Current Position",
+      location: "Bangalore",
       description: "Managing social media for multiple sports clients, crafting tailored content to boost engagement and brand presence.",
       achievements: [
         "Lead Social Media Manager for Punjab FC with 30% increase in digital engagement",
@@ -66,8 +66,8 @@ const Experience = () => {
       border: "border-orange-400/30"
     },
     {
-      title: "Siechem Madurai Panthers",
-      description: "TNPL cricket franchise social media management",
+      title: "Punjab FC",
+      description: "An Indian Football club representing Punjab in ISL",
       impact: "Complete social media strategy and real-time match coverage",
       icon: <Users2 className="w-6 h-6" />,
       rarity: "Epic",
@@ -75,8 +75,8 @@ const Experience = () => {
       border: "border-blue-400/30"
     },
     {
-      title: "Fantasy Sports Apps",
-      description: "Fan2Play and Sportasy content management",
+      title: "Siechem Madurai Panthers",
+      description: "Madurai’s own team in one of India’s top franchise leagues, the TNPL",
       impact: "Comprehensive content calendars and user engagement",
       icon: <Target className="w-6 h-6" />,
       rarity: "Rare",
