@@ -84,20 +84,19 @@ const Hero = () => {
           </div>
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-12">
-            <a
-              href="#"
+            <a               href="https://in.linkedin.com/in/naveenbalaji8"
               className="p-3 bg-slate-900/30 backdrop-blur-xl rounded-full border border-cyan-400/30 shadow-lg shadow-cyan-500/20 hover:shadow-xl hover:shadow-cyan-500/40 transition-all duration-300 hover:scale-110 hover:bg-cyan-500/20 group"
             >
               <Linkedin className="w-6 h-6 text-cyan-400 group-hover:text-white" />
             </a>
             <a
-              href="#"
+        href="https://twitter.com/monknaveen"
               className="p-3 bg-slate-900/30 backdrop-blur-xl rounded-full border border-blue-400/30 shadow-lg shadow-blue-500/20 hover:shadow-xl hover:shadow-blue-500/40 transition-all duration-300 hover:scale-110 hover:bg-blue-500/20 group"
             >
               <Twitter className="w-6 h-6 text-blue-400 group-hover:text-white" />
             </a>
             <a
-              href="#"
+        href="https://www.instagram.com/naveen_monk/"
               className="p-3 bg-slate-900/30 backdrop-blur-xl rounded-full border border-orange-400/30 shadow-lg shadow-orange-500/20 hover:shadow-xl hover:shadow-orange-500/40 transition-all duration-300 hover:scale-110 hover:bg-orange-500/20 group"
             >
               <Instagram className="w-6 h-6 text-orange-400 group-hover:text-white" />

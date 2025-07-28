@@ -78,7 +78,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-white">Email</h4>
-                  <p className="text-white/70">naveen.balaji@example.com</p>
+                  <p className="text-white/70">naveenbalaji786@gmail.com</p>
                 </div>
               </div>
               
@@ -88,7 +88,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-white">Phone</h4>
-                  <p className="text-white/70">+91 XXXXX XXXXX</p>
+                  <p className="text-white/70">+91 87786 46349</p>
                 </div>
               </div>
               
@@ -108,19 +108,19 @@ const Contact = () => {
               <h4 className="font-semibold text-white mb-4">Follow Me</h4>
               <div className="flex space-x-4">
                 <a
-                  href="#"
+        href="https://in.linkedin.com/in/naveenbalaji8"
                   className="p-3 bg-slate-900/50 backdrop-blur-xl rounded-lg border border-cyan-400/30 hover:shadow-lg hover:shadow-cyan-500/30 hover:bg-cyan-500/20 transition-all duration-300 hover:scale-110 group"
                 >
                   <Linkedin className="w-6 h-6 text-cyan-400 group-hover:text-white" />
                 </a>
                 <a
-                  href="#"
+                  href="https://twitter.com/monknaveen"
                   className="p-3 bg-slate-900/50 backdrop-blur-xl rounded-lg border border-blue-400/30 hover:shadow-lg hover:shadow-blue-500/30 hover:bg-blue-500/20 transition-all duration-300 hover:scale-110 group"
                 >
                   <Twitter className="w-6 h-6 text-blue-400 group-hover:text-white" />
                 </a>
                 <a
-                  href="#"
+          href="https://www.instagram.com/naveen_monk/"
                   className="p-3 bg-slate-900/50 backdrop-blur-xl rounded-lg border border-orange-400/30 hover:shadow-lg hover:shadow-orange-500/30 hover:bg-orange-500/20 transition-all duration-300 hover:scale-110 group"
                 >
                   <Instagram className="w-6 h-6 text-orange-400 group-hover:text-white" />
